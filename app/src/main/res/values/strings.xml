@@ -9,6 +9,7 @@
     <string name="recalculate">Recalculate</string>
     <string name="result">Your Result</string>
     <string name="error">Error</string>
+    <string name="start_weight">120 cm</string>
 
     <string name="title_low_weight">Low</string>
     <string name="description_low_weight">You are below optimal for your weight and height.</string>
@@ -18,4 +19,5 @@
     <string name="description_overweight">You are over optimal for your weight and height.</string>
     <string name="title_obesity">Obesity</string>
     <string name="description_obesity">You are way over optimal for your weight and height.</string>
+
 </resources>

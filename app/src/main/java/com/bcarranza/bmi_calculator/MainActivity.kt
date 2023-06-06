@@ -58,16 +58,22 @@ class MainActivity : AppCompatActivity() {
         btnPlusAge = findViewById(R.id.btnPlusAge)
         tvAge = findViewById(R.id.textViewAge)
         btnCalculate = findViewById(R.id.btnCalculate)
+
+        viewMale.isEnabled = false
     }
 
     private fun initListener() {
         viewMale.setOnClickListener {
             changeGender()
             setGenderColor()
+            viewMale.isEnabled = false
+            viewFemale.isEnabled = true
         }
         viewFemale.setOnClickListener {
             changeGender()
             setGenderColor()
+            viewFemale.isEnabled = false
+            viewMale.isEnabled = true
         }
         rsHeight.addOnChangeListener { _, value, _ ->
             val df = DecimalFormat("#.##")
