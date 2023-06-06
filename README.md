@@ -8,8 +8,8 @@ The designs of this app were inspired by [Ruben Vaalt.](https://dribbble.com/sho
 
 ## Screenshots
 <div style="display: flex; justify-content: center;">
-  <img src="images/mainscreen.jpg" alt="Main Screen" style="max-width: 50%;">
-  <img src="images/resultscreen.jpg" alt="Result Screen" style="max-width: 50%;">
+  <img src="images/mainscreen.jpg" alt="Main Screen" style="max-width: 30%;">
+  <img src="images/resultscreen.jpg" alt="Result Screen" style="max-width: 30%;">
 </div>
 
 
