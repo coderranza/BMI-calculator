@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">BMI_Calculator</string>
+    <string name="app_name">BMI Calculator</string>
     <string name="genre_male">Male</string>
     <string name="genre_female">Female</string>
     <string name="height">Height</string>
