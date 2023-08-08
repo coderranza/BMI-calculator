@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list android:opacity="opaque"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@color/background_app"/>
+
+    <item
+        android:width="200dp"
+        android:height="110dp"
+        android:drawable="@drawable/bmi_logo"
+        android:gravity="center"/>
+</layer-list>
